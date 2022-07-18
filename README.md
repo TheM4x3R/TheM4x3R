@@ -1,4 +1,7 @@
                                                   ⚠️I'm back!⚠️
+
+- ✨ Live goals: Beat Death Corridor in Geometry Dash
+
 - ✨ I like pizza!
 - ✨ I'm learning Python!
 - ✨ My favourite programming language is Java!
